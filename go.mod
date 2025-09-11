@@ -2,7 +2,7 @@ module github.com/danielxfeng/async_gateway
 
 go 1.24.5
 
-require github.com/getsentry/sentry-go v0.34.1
+require github.com/getsentry/sentry-go v0.35.2
 
 require (
 	golang.org/x/sys v0.18.0 // indirect
